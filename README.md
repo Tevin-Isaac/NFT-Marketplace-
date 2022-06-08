@@ -5,3 +5,13 @@ It is deployed with vercel.
 To get started with next-js you can check here https://nextjs.org/docs/getting-started.
 
 To learn how to deploy with vercel click  here https://vercel.com/docs/concepts/deployments/overview.
+
+
+To run this project simply git clone it.
+
+run npm install 
+
+npm run build
+
+npm run  start
+
