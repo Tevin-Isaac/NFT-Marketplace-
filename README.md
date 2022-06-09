@@ -23,6 +23,6 @@ npm run  start
 ![Scre
 ![Screenshot from 2022-06-09 11-16-56](https://user-images.githubusercontent.com/81568615/172801159-eefa656b-1bb8-4c4f-95fd-3ebbcf32c23e.png)
 enshot from 2022-06-09 11-16-50](https://user-images.githubusercontent.com/81568615/172801147-2681244a-9f37-48e7-8bbf-32c9bfb3a345.png)
-![Screenshot from 2022-06-09 11-17-25](https://user-images.githubusercontent.com/81568615/172801194-db6171f7-806f-47af-be2b-be7ef5b2ae9b.png)
-
 ![Screenshot from 2022-06-09 11-17-02](https://user-images.githubusercontent.com/81568615/172801177-a16e1d49-ac8d-4651-a5c7-1da88a9ec8de.png)
+
+![Screenshot from 2022-06-09 11-17-25](https://user-images.githubusercontent.com/81568615/172801194-db6171f7-806f-47af-be2b-be7ef5b2ae9b.png)
